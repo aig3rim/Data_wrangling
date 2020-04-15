@@ -1,5 +1,5 @@
 # Data_wrangling
-**Goal:** As a part of Udacity's Data Ananlyst Nanodegree program, I had to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
+**Goal:** As a part of [Udacity's Data Ananlyst Nanodegree program] (https://www.udacity.com/course/data-analyst-nanodegree--nd002), I had to wrangle WeRateDogs Twitter data to create interesting and trustworthy analyses and visualizations. The Twitter archive is great, but it only contains very basic tweet information. Additional gathering, then assessing and cleaning is required for "Wow!"-worthy analyses and visualizations.
 
 **Data**
 
